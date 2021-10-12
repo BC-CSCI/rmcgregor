@@ -1,10 +1,10 @@
 # Eric McGregor
 
-## (Homework)[./hw]
+## [Homework](./hw)
 - 
 
 
-## Labs
+## [Labs](./labs)
 
 
 
