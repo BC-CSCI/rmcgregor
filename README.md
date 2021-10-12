@@ -1,11 +1,11 @@
-#Eric McGregor
+# Eric McGregor
 
-##(Homework)[./hw]
+## (Homework)[./hw]
 - 
 
 
-##Labs
+## Labs
 
 
 
-##Extra
+## Extra
