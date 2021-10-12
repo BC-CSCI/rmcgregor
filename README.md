@@ -7,7 +7,7 @@
 - [Pre-lab 4](hw/pre-lab4.pdf)
 
 ## [Labs](labs)
-- [Lab 6a](labs/Lab6a.java)
+- [Lab 6b](labs/Lab6b.java)
 
 
 ## [Extra](extra)
